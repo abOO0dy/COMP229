@@ -6,7 +6,7 @@ Created: 24-09-2024
   
 */
 
-import '../assets/assignment1.css'
+import '../src/assets/assignment1.css'
 export default function Home() {
     return (
                 <div className="content">
