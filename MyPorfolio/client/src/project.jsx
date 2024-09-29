@@ -4,19 +4,19 @@ export default function Project() {
         {
             title: "Lady Bug Smasher Game",
             link: "http://studentweb.cencol.ca/ahamid28/assignment3/assignment3.html",
-            image: "./src/assets/LadyBug.png",
+            image: "/Assets/LadyBug.png",
             description: "Developed an interactive webpage featuring a dynamic ladybug that accelerates with each click, enhancing user engagement and tracking points earned. click on image",
         },
         {
             title: "Interactive Slideshow",
             link: "http://studentweb.cencol.ca/ahamid28/assignment4/assignment4.html",
-            image: "./src/assets/Interactive_Slideshow.png",
+            image: "/Assets/Interactive_Slideshow.png",
             description: "an image gallery, taht fetch images from an API also responsive design for web and mobile browsing. click on image" ,
         },
         {
             title: "Table Creation",
             link: "http://studentweb.cencol.ca/ahamid28/assignment1/assignment1.html",
-            image: "./src/assets/Table.png",
+            image: "/Assets/Table.png",
             description: "A simple table creation functionality that allow user to create table with numbers. click on image",
         },
     ]
