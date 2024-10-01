@@ -126,7 +126,6 @@ that will be used in the project
       }
       
       .serviceIcon {
-      
         font-size: 20px;
         color: #646cff;
       }
@@ -152,7 +151,7 @@ that will be used in the project
         gap: 2rem;
       }
       
-      .projectHighlight {
+      .projectTitle {
         font-size: 45px; 
         font-weight: bold;
         color: #646cff;
@@ -165,7 +164,6 @@ that will be used in the project
         grid-template-rows: repeat(2, auto);
         column-gap: 100px;
         row-gap: 4px;
-       
       }
       .projectItem {
         width: 300px;

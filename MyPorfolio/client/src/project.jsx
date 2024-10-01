@@ -23,8 +23,8 @@ export default function Project() {
     
     return (
         <div className='projectContainer'>
-            <h2 className='projectTitle'>  <span className='projectHighlight'>
-            My Project{projects.length && projects.length > 1 ? "s" : ""} </span>
+            <h2 className='projectTitle'>  
+            My Projects
             </h2>
             <div className='projectList'>
                 {projects.map((project, index) => (
