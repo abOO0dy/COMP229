@@ -17,7 +17,7 @@ that will be used in the project
     
     h3 {
       font-size: 25px;
-      color: #646cffaa;
+      color: #646cff;
     }
     
     .missionStatement {
@@ -28,7 +28,7 @@ that will be used in the project
     
     .btn-primary {
       color: white;
-      border-color: #646cffaa;
+      border-color: #646cff;
     }
     
     .btn-primary:hover {
@@ -63,11 +63,11 @@ that will be used in the project
       }
       .MyName{
         font-size: 30px;
-        color:646cffaa;
+        color: #646cff;
       }
       .MyTitle{
         font-size: 30px;
-        color:646cffaa;
+        color: #646cff;
       }
       .AboutMe{
         font-size: 20px;
@@ -82,7 +82,7 @@ that will be used in the project
       .MyServices{
         font-size: 45px; 
         font-weight: bold;
-        color: #646cffaa;
+        color: #646cff;
         margin-bottom: 20px;
       }
       
@@ -128,12 +128,12 @@ that will be used in the project
       .serviceIcon {
       
         font-size: 20px;
-        color: #646cffaa;
+        color: #646cff;
       }
-      
       .serviceTitle {
-        color: #646cffaa;
+        color: #646cff;
         font-weight: bold;
+        font-size: large;
       }
       
       .serviceDescription {
@@ -155,7 +155,7 @@ that will be used in the project
       .projectHighlight {
         font-size: 45px; 
         font-weight: bold;
-        color: #646cffaa;
+        color: #646cff;
         margin-bottom: 20px;
       }
       
@@ -201,7 +201,7 @@ that will be used in the project
       .contact-form {
         font-size: 45px; 
         font-weight: bold;
-        color: #646cffaa;
+        color: #646cff;
         margin-bottom: 20px;
       }
       
