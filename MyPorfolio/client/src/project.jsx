@@ -11,7 +11,7 @@ export default function Project() {
             title: "Interactive Slideshow",
             link: "http://studentweb.cencol.ca/ahamid28/assignment4/assignment4.html",
             image: "/Assets/Interactive_Slideshow.png",
-            description: "an image gallery, taht fetch images from an API also responsive design for web and mobile browsing. click on image" ,
+            description: "An image gallery, that fetch images from an API also responsive design for web and mobile browsing. click on image" ,
         },
         {
             title: "Table Creation",

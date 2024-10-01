@@ -16,6 +16,5 @@ export default function Home() {
                     Click Here!</Link> </p>
                     <p className="btn btn-primary"><Link to="/project">Projects</Link></p>
                 </div>
-
     );
 }
